@@ -10,12 +10,12 @@ La verdad esta tarea me parece que ha sido la mas facil de realizar. Lo unico qu
 
 ### Link al video
 
-[Tarea04 - Video]()
+[Tarea04 - Video](https://youtube.com/shorts/sT2o_eX-8F8)
 
 ### Screenshots de la app
 
 ![Screenshot01](<./screenshots/Screenshot 2024-02-20 182601.png>)
-![Screenshot02](<./screenshots/Screenshot 2024-02-20 182609.png>)
+![Screenshot02](<./screenshots/Screenshot 2024-02-20 183645.png>)
 
 ### Referencias
 
